@@ -82,3 +82,4 @@ Les villes examineront et publieront sous forme de données ouvertes toutes les 
 # Références externes
 * https://diasporing.ch/posts/3166446 Les logiciels libres, un instrument pour restaurer une souveraineté numérique de l’Europe - ZDNet
 La dernière partie de l’avis (pages 42 et 43), qui aboutit à la préconisation n° 17, invite à plus d’utilisation de logiciels libres.
+Un avis du Conseil économique, social et environnemental décline 17 propositions pour "une politique de souveraineté européenne du numérique". Il prône un recours accru aux logiciels libres.
