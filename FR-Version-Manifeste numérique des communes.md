@@ -78,3 +78,7 @@ Les villes doivent promouvoir et soutenir les entreprises et les communautés lo
 Les villes soutiendront et encourageront le développement de programmes d’enseignement pour les logiciels libres, les données ouvertes et les droits numériques dans leurs établissements d’enseignement municipaux afin de créer une culture d’ouverture et de collaboration qui soutiendra ensuite les politiques des villes en matière de TIC pour l’avenir.
 
 Les villes examineront et publieront sous forme de données ouvertes toutes les données non confidentielles ou privées générées par les TIC municipales et fourniront des plates-formes permettant à d'autres entités de faire de même, afin de promouvoir une relation transparente et collaborative entre l'administration municipale, les citoyens et les autres institutions.
+
+# Références externes
+* https://diasporing.ch/posts/3166446 Les logiciels libres, un instrument pour restaurer une souveraineté numérique de l’Europe - ZDNet
+La dernière partie de l’avis (pages 42 et 43), qui aboutit à la préconisation n° 17, invite à plus d’utilisation de logiciels libres.
