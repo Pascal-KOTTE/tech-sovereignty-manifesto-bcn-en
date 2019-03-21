@@ -1,6 +1,6 @@
 # Manifeste en faveur de la souveraineté technologique et des droits numériques des villes
 ## [Manifeste numérique des communes à l'ère de l'humanité digitale](https://github.com/Pascal-KOTTE/tech-sovereignty-manifesto-bcn-en/blob/master/FR-Version-Manifeste%20num%C3%A9rique%20des%20communes.md)
-Traduction et adaptation résumée de AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en par Pascal.KOTTE@CloudReady.ch ([CC-BY-SA 4.0](https://github.com/AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en/blob/master/LICENSE))
+Traduction et adaptation résumée de [AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en](https://github.com/AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en) par Pascal.KOTTE@CloudReady.ch ([CC-BY-SA 4.0](https://github.com/AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en/blob/master/LICENSE))
 
 ## Nos valeurs et croyances
 1. **La souveraineté technologique** des villes pour un contrôle total et l'autonomie de leurs technologies de l'information et de la communication (TIC), notamment des infrastructures de services, des sites Web, des applications et des données, dans le respect des lois qui protègent les intérêts des municipalités et de leurs citoyens.
