@@ -88,7 +88,7 @@ Un avis du Conseil économique, social et environnemental décline 17 propositio
 ---
 
 # Analyse et apport de Pascal KOTTE (Pascal.KOTTE@CloudReady.ch)
-## Ce qui manque
+## Ce qui manque : Open Knowledge
 ### CC by design pour toutes les études
 * Mettre en oeuvre de la transparence, en imposant un format CC et (C) sur toutes les études financées par les deniers publics, avec des publications et appels à commentaires, avec identification et réputationnel des contributeurs. Rendre illégal le produits de travaux financé par des deniers publics. Les données confidentielles pour raisons de sécurité, devront être anonymisée ou annexée dans des sections protégées, mais revues par un conseil d'éthique qui doit statuer sur la légitimité du "secret", avec un délai maximum.
 ### CC by design sur toutes les productions
