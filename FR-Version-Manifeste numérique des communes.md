@@ -85,7 +85,7 @@ La dernière partie de l’avis (pages 42 et 43), qui aboutit à la préconisati
 Un avis du Conseil économique, social et environnemental décline 17 propositions pour "une politique de souveraineté européenne du numérique". Il prône un recours accru aux logiciels libres.
 * https://talk.incommon.cc/t/charte-in-common/329
 
--
+---
 
 # Analyse et apport de Pascal KOTTE (Pascal.KOTTE@CloudReady.ch)
 ## Ce qui manque
