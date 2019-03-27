@@ -84,3 +84,14 @@ Les villes examineront et publieront sous forme de données ouvertes toutes les 
 La dernière partie de l’avis (pages 42 et 43), qui aboutit à la préconisation n° 17, invite à plus d’utilisation de logiciels libres.
 Un avis du Conseil économique, social et environnemental décline 17 propositions pour "une politique de souveraineté européenne du numérique". Il prône un recours accru aux logiciels libres.
 * https://talk.incommon.cc/t/charte-in-common/329
+
+-
+
+# Analyse et apport de Pascal KOTTE (Pascal.KOTTE@CloudReady.ch)
+## Ce qui manque
+### CC by design pour toutes les études
+* Mettre en oeuvre de la transparence, en imposant un format CC et (C) sur toutes les études financées par les deniers publics, avec des publications et appels à commentaires, avec identification et réputationnel des contributeurs. Rendre illégal le produits de travaux financé par des deniers publics. Les données confidentielles pour raisons de sécurité, devront être anonymisée ou annexée dans des sections protégées, mais revues par un conseil d'éthique qui doit statuer sur la légitimité du "secret", avec un délai maximum.
+### CC by design sur toutes les productions
+* supports scolaires ou autres, modèles, méthodes, outils: Tous les investissements et travaux réalisés  sous salariats d'états, doivent être publié en "Open", tout en optimisant leur stockage pour favoriser la construction de communs pertinents, et réduire les infobésités.
+### Open Hardware obligatoire
+* tout appel d'offres, devra choisir en priorité des équipements matériels sous licences open hardware, comme pour les logiciels et les outils et méthodes utilisées, qui seront Creative Commons en priorité.
